@@ -1,7 +1,19 @@
-#boton{
+#div{
     padding: 5px;
+    background-color: rgb(124, 238, 124);
+    display: flex;
+    justify-content: center;
+   
 }
-#boton button{
+#boton{
     background-color: green;
+    height: 40px;
+    border-bottom: 5px solid;
+    border-bottom-color: black;
+    box-shadow: 1px 3px 5px;
+    font-style: bold;
+    font-size: 15px;
+
+    
 }
 
