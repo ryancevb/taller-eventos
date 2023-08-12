@@ -1,5 +1,5 @@
 const ElementoDiv = document.getElementById('div')
-const ElementoBoton= document.getElementById('boton')
+const ElementoBoton = document.getElementById('boton')
 
 ElementoBoton.addEventListener('click', function (event) {
     event.stopPropagation();
