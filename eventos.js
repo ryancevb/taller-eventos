@@ -7,5 +7,5 @@ ElementoBoton.addEventListener('click', function (event) {
 
 
 ElementoDiv.addEventListener("click", function(){
-    alert ('Hola! Soy el div');
+    alert ('Hola! Soy el div.');
 });
